@@ -30,6 +30,10 @@ If we only have 10 numbers we are woking with then it is an option and we wouldn
 
 # operations/ functions
 
-##
+## Add:
+
+## Remove:
+
+## Size:
 
 
