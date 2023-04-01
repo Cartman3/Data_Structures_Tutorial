@@ -61,3 +61,9 @@ This operator looks at the queue to see if it is empty. I choose isEmpty because
 Other notable operators are: front, back, isFull, size and so on
 
 Why not just use a list? Because lists are not time efficient for this purpose of first in first out scenario.
+
+
+
+# Try it yourself!
+
+
