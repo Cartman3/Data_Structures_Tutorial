@@ -80,7 +80,7 @@ The results of this code show how sets work.
 # Try it yourself!
 
 Below is a problem I've made to help you get familiar with and learn about sets. Try it yourself! You can do it!
-
+[Problem](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_problem.py)
 
 
 Here is a solutioh to the problem: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_solution.py)
