@@ -14,7 +14,7 @@ A set has two important characteristics to them. One, the order is not important
 
 This example can be good to think about for the over all idea of a set. However, a set involves a more in depth concept to grasp in order to understand how a set stores values. To further understand a set we need to talk about something called Hashing.
 
-# Hashing
+## Hashing
 
 Hashing uses a location value to store inputted data so it is easier for the set to find said values. Hashing makes it easier to check and retrieve values and uses 0(1) performance on top of that. This method of hashing uses modulus of the given value to store it in a set. This concept can be a little complicated to understand at first. I will do my best to explain it.
 
@@ -28,11 +28,11 @@ So with this we can see how the set, using hashing, would store data that we inp
 
 If we only have 10 numbers we are woking with then it is an option and we wouldnt have to worry. However, what if we are working with 100s of values? We have a way to get around this and arguably it is a better way. So youre inputting data into a set and have multiple values that have the same modulus. How we can get around this is to make a list within the one index in the set. It is now possible to store 164 and 174. Great more complication! Does this effect performance? yes obviously a little bit but not by much. Hashing with built-in functions are great with handling performance.
 
-# Operations/ Performance
+## Operations/ Performance
 
 Just like queues, sets have a lot of use in programming. Sets depend upon size usually a set and its operations are O(1) performance. The common operations sets use are as follows.
 
-## Add:
+### Add:
 
 The add operation adds a value to the set. surprising huh! I bet you would have never guessed! This operation uses peak performance because it is only doing one thing and thats worrying about hashing.
 
@@ -43,7 +43,7 @@ The add operation adds a value to the set. surprising huh! I bet you would have 
 my_set.add()
 ```
 
-## Remove:
+### Remove:
 
 Bet you wont guess what this operation does! It removes a value from the set. Crazy! This also uses O(1) because it to just uses one hash and find where it placed the value in one "loop" if you will. Meaning it doesnt have to loop more than once.
 
@@ -53,7 +53,7 @@ Bet you wont guess what this operation does! It removes a value from the set. Cr
 my_set.remove()
 ```
 
-## Size:
+### Size:
 
 The size operator will return the size of the set or the amount of values within it. it is easy to do this using the len() fuction.
 
@@ -63,7 +63,7 @@ len = len(my_set)
 
 Other nothable operations are union, intersecttion.
 
-# Code example
+## Code example
 
 I want to show a visual example of everything we just learned. So what do we know about a set. Two things, order doesnt matter and sets dont allow duplicates. To show you this lets take the alphabet for instance.
 
