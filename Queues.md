@@ -40,14 +40,18 @@ The enqueue operation allows you to add onto the back of the queue (Crazy right!
 
 #### Python:
 
+```
 queue.enqueue()
+```
 
 ## Dequeue:
 The Dequeue operation allows you to remove the person that was first in line. In other word’s the person in the front of the line at Disneyland is the one that gets “dequeued” when he or she gets on the coaster to ride. (How fun!)
 
 #### Python:
 
+```
 queue.dequeue()
+```
 
 ## isEmpty:
 This operator looks at the queue to see if it is empty. I choose isEmpty because of my scenario about the coaster. If the line is empty them logically it would not be worth running the coaster. That being said, we will check for if the queue is empty.
@@ -70,7 +74,6 @@ This is one example of how you could make a queue using .put and .get
 Try it yourself! Below is a little problem I made up so you could test your knowledge. All you have to do is write the code inside the fuctions for a queue. Only two things need to work, enqueue and dequeue. You can do it!! Get the code here: [Try it yourself!](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Queues_Try_It_Yourself.py)
 
 ![Queues_Try_Me](https://user-images.githubusercontent.com/108925950/229268473-c81798c6-1864-49f2-bccd-c42281235cd4.jpg)
-
 
 
 Here is a link to one (of many) solutions to the problem: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Queues_Try_It_Yourself_solution.py)
