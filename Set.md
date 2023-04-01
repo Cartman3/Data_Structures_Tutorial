@@ -28,12 +28,33 @@ So with this we can see how the set, using hashing, would store data that we inp
 
 If we only have 10 numbers we are woking with then it is an option and we wouldnt have to worry. However, what if we are working with 100s of values? We have a way to get around this and arguably it is a better way. So youre inputting data into a set and have multiple values that have the same modulus. How we can get around this is to make a list within the one index in the set. It is now possible to store 164 and 174. Great more complication! Does this effect performance? yes obviously a little bit but not by much. Hashing with built-in functions are great with handling performance.
 
-# operations/ functions
+# operations/ Performance
+
+Just like queues, sets have a lot of use in programming. Sets depend upon size usually a set and its operations are O(1) performance. The common operations sets use are as follows.
 
 ## Add:
 
+The add operation adds a value to the set. surprising huh! I bet you would have never guessed! This operation uses peak performance because it is only doing one thing and thats worrying about hashing.
+
+
+#### Python:
+
+```
+my_set.add()
+```
+
 ## Remove:
+
+Bet you wont guess what this operation does! It removes a value from the set. Crazy! This also uses O(1) because it to just uses one hash and find where it placed the value in one "loop" if you will. Meaning it doesnt have to loop more than once.
+
+#### Python:
+
+```
+my_set.remove()
+```
 
 ## Size:
 
-
+```
+len = len(my_set)
+```
