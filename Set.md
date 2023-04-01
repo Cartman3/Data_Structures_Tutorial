@@ -61,9 +61,28 @@ The size operator will return the size of the set or the amount of values within
 len = len(my_set)
 ```
 
+Other nothable operations are union, intersecttion.
+
 # Code example
+
+I want to show a visual example of everything we just learned. So what do we know about a set. Two things, order doesnt matter and sets dont allow duplicates. To show you this lets take the alphabet for instance.
+
+you can easily make a set with the alphabet. It is also easy to see how a set works with an alphabet.
+
+![Set Code Example final](https://user-images.githubusercontent.com/108925950/229303704-1fd8dd22-fb56-471f-bfc1-4df9fdea4e3d.jpg)
+
+The results of this code show how sets work.
+
+
+![Set Code example final 2](https://user-images.githubusercontent.com/108925950/229303818-9bde370c-83b3-4bb5-80b0-f77ca3cbf2cd.jpg)
 
 
 # Try it yourself!
+
+Below is a problem I've made to help you get familiar with and learn about sets. Try it yourself! You can do it!
+
+
+
+Here is a solutioh to the problem: Solution
 
 
