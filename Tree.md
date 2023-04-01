@@ -31,7 +31,7 @@ The example above isnt entirely how trees in programming work but it is a good s
 
 ![Tree_example2](https://user-images.githubusercontent.com/108925950/229310566-3066c613-ab65-4502-81e5-5c52da7bc3f1.jpg)
 
-#### inputting data into a tree
+#### Inputting data into a tree
 
 Now onto inserting data. Fornunatly, this is eay to understand! Knowing that a tree organizes data from left to right, lowest to higest. we can conclude what would happen if we were to insert certain data. Look at the example below.
   
@@ -66,8 +66,6 @@ This operator searches through the tree and returns the height of the tree. Uses
 
 ### Contains
 This operator searches through the tree and compares each vlaue. Uses O(log n)
-
-## code example
 
 
 # Try it yourself!
