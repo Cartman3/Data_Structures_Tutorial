@@ -55,6 +55,15 @@ my_set.remove()
 
 ## Size:
 
+The size operator will return the size of the set or the amount of values within it. it is easy to do this using the len() fuction.
+
 ```
 len = len(my_set)
 ```
+
+# Code example
+
+
+# Try it yourself!
+
+
