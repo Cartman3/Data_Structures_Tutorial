@@ -75,5 +75,4 @@ This operator searches through the tree and compares each vlaue. Uses O(log n)
 Below is a chanllenge for you! Become familiar with seting up a BST! You got this! [Try it yourself!](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Trees_Problem.py)
 ![Trees_prob_pic](https://user-images.githubusercontent.com/108925950/229315364-4bc4e0ab-dcd7-4f8b-a209-a9ece2c9c54b.jpg)
 
-Here is a possible solution: Solution
-
+Here is a possible solution: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Trees_Solution.py)
