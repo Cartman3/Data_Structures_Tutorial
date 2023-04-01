@@ -83,6 +83,5 @@ Below is a problem I've made to help you get familiar with and learn about sets.
 
 
 
-Here is a solutioh to the problem: Solution
-
+Here is a solutioh to the problem: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_solution.py)
 
