@@ -82,6 +82,10 @@ The results of this code show how sets work.
 Below is a problem I've made to help you get familiar with and learn about sets. Try it yourself! You can do it!
 [Problem](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_problem.py)
 
+![sets_probl_pic](https://user-images.githubusercontent.com/108925950/229308624-fac5eae3-f683-4e47-a1ed-bb90694bd3b8.jpg)
+
+![Sets_prob_pic2](https://user-images.githubusercontent.com/108925950/229308630-b89fdb9f-f5e3-4d79-9b31-405e2a66174d.jpg)
+
 
 Here is a solutioh to the problem: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_solution.py)
 
