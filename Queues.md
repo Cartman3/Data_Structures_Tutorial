@@ -66,4 +66,4 @@ Why not just use a list? Because lists are not time efficient for this purpose o
 
 # Try it yourself!
 
-Here is a link to one (of many) solutions to the problem: [Solution](
+Here is a link to one (of many) solutions to the problem: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Queues_Try_It_Yourself_solution.py)
