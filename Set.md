@@ -79,8 +79,8 @@ The results of this code show how sets work.
 
 # Try it yourself!
 
-Below is a problem I've made to help you get familiar with and learn about sets. Try it yourself! You can do it!
-[Problem](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_problem.py)
+Below is a problem I've made to help you get familiar with and learn about sets. Try it yourself! You can do it! Get the code here:
+[Try it yourself!](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Set_try_yourself_problem.py)
 
 ![sets_probl_pic](https://user-images.githubusercontent.com/108925950/229308624-fac5eae3-f683-4e47-a1ed-bb90694bd3b8.jpg)
 
