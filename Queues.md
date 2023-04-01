@@ -9,7 +9,7 @@ You are utilizing the idea of a queue to help you achieve your goal!
 
 ![image](https://user-images.githubusercontent.com/108925950/229265999-85b7e4b5-044d-42b3-a1aa-8bcaaf87e381.png)
 
-# How queues work
+## How queues work
 
 Queues are pretty straight forward and we use them all the time. 
 A queue is referred to as First In First Out (FIFO) or a different way of saying it is Last In Last Out (LILO). 
@@ -30,12 +30,12 @@ For the examples, we will stick to the original idea of the line at Disneyland.
 The lines work exactly like the car example. There’s even an invisible stop sign when you have to wait for the 
 next rollercoaster car to pick up the next people.
 
-# Operations/ Performance
+## Operations/ Performance
 
 Queues are very important for many programs and they have great performance. Typically queues have an O(1) performance which is one of the best performances we can have. There are many operations a queue has that I have outlined below.
 
 
-## Enqueue:
+### Enqueue:
 The enqueue operation allows you to add onto the back of the queue (Crazy right!)  “Wild” - My roommate. This comes into play when someone in Disneyland park walks into the back of the line for the coaster, that person is “enqueued” into the line.
 
 #### Python:
@@ -44,7 +44,7 @@ The enqueue operation allows you to add onto the back of the queue (Crazy right!
 queue.enqueue()
 ```
 
-## Dequeue:
+### Dequeue:
 The Dequeue operation allows you to remove the person that was first in line. In other word’s the person in the front of the line at Disneyland is the one that gets “dequeued” when he or she gets on the coaster to ride. (How fun!)
 
 #### Python:
@@ -53,7 +53,7 @@ The Dequeue operation allows you to remove the person that was first in line. In
 queue.dequeue()
 ```
 
-## isEmpty:
+### isEmpty:
 This operator looks at the queue to see if it is empty. I choose isEmpty because of my scenario about the coaster. If the line is empty them logically it would not be worth running the coaster. That being said, we will check for if the queue is empty.
 
 
@@ -61,7 +61,7 @@ Other notable operators are: front, back, isFull, size and so on
 
 Why not just use a list? Because lists are not time efficient for this purpose of first in first out scenario.
 
-# Code example
+## Code example
 
 This is one example of how you could make a queue using .put and .get
 
