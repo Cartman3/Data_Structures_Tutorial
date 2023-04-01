@@ -2,7 +2,6 @@
 
 ## Introduction
 
-
 You’re at your favorite amusement park, Disneyland, and you want to get on the rides as fast as you can. 
 You narrow down the search criteria to one thing, which line is the shortest and you hop the long lines will get shorter after. 
 You are utilizing the idea of a queue to help you achieve your goal!
@@ -68,8 +67,7 @@ This is one example of how you could make a queue using .put and .get
 
 # Try it yourself!
 
-Try it yourself! Below is a little problem I made up so you could test your knowledge. All you have to do is write the code inside the fuctions for a queue. Only two things need to work, enqueue and dequeue. You can do it!! Get the code here:
-
+Try it yourself! Below is a little problem I made up so you could test your knowledge. All you have to do is write the code inside the fuctions for a queue. Only two things need to work, enqueue and dequeue. You can do it!! Get the code here: [Try it yourself!][(https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Queues_Try_It_Yourself.py)
 
 ![Queues_Try_Me](https://user-images.githubusercontent.com/108925950/229268473-c81798c6-1864-49f2-bccd-c42281235cd4.jpg)
 
