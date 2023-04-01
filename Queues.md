@@ -53,17 +53,25 @@ queue.dequeue()
 ## isEmpty:
 This operator looks at the queue to see if it is empty. I choose isEmpty because of my scenario about the coaster. If the line is empty them logically it would not be worth running the coaster. That being said, we will check for if the queue is empty.
 
-#### Python:
-
-
-
 
 Other notable operators are: front, back, isFull, size and so on
 
 Why not just use a list? Because lists are not time efficient for this purpose of first in first out scenario.
 
+# Code example
+
+This is one example of how you could make a queue using .put and .get
+
+![Queue_Example_Code](https://user-images.githubusercontent.com/108925950/229269510-3ddc2cc3-5f88-483d-9bfc-5b2e3e05cc1e.jpg)
+
 
 
 # Try it yourself!
+
+Try it yourself! Below is a little problem I made up so you could test your knowledge. All you have to do is write the code inside the fuctions for a queue. Only two things need to work, enqueue and dequeue. You can do it!!
+
+![Queues_Try_Me](https://user-images.githubusercontent.com/108925950/229268473-c81798c6-1864-49f2-bccd-c42281235cd4.jpg)
+
+
 
 Here is a link to one (of many) solutions to the problem: [Solution](https://github.com/Cartman3/Data_Structures_Tutorial/blob/main/Queues_Try_It_Yourself_solution.py)
