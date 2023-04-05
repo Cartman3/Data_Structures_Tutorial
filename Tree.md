@@ -46,7 +46,6 @@ What if we are inputting a 10, 12, 15, 20? They would all fall to the right and 
 We run into a problem if our trees are unbalanced. This has everything to do with the height of the tree. An unbalaced tree vs a balanced tree may look like this:
 The unbalanced tree is to the right and the balanced is to the left.
 
-  ![Balancing trees](https://user-images.githubusercontent.com/108925950/229312229-879651cf-4039-4f86-8cce-2215e01323d6.jpg)
   
 The tree starts to look unbalanced when the hight of the tree does not level out and stay fairly even. if not delt with the performance of the program or tree can drop significatly. The example obove shows how we can deal with this. The best way is to insert the middle number first, that way the tree will always be evenly distributed and maintain a relativly low hieght, as opposed to starting with the first number and (log n) the height.
 
