@@ -67,6 +67,7 @@ This operator searches through the tree and returns the height of the tree. Uses
 ### Contains
 This operator searches through the tree and compares each vlaue. Uses O(log n)
 
+![Data stucture picture](https://user-images.githubusercontent.com/108925950/230236264-a84616f6-686f-4d0d-b7e8-852817624f41.jpeg)
 
 # Try it yourself!
 
