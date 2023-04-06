@@ -35,7 +35,6 @@ The example above isnt entirely how trees in programming work but it is a good s
 
 Now onto inserting data. Fornunatly, this is eay to understand! Knowing that a tree organizes data from left to right, lowest to higest. we can conclude what would happen if we were to insert certain data. Look at the example below.
   
- ![Tree_Binary](https://user-images.githubusercontent.com/108925950/229311907-f4da68c6-686f-4df1-9523-919753a5f7cc.jpg)
 
 This method is comparing each value and then based on if it is less than or greater than the stored value it will sort it into the repective child class. Seems great right. Hold on to your hat because im going to throw you another problem! AHHHH!
  
